@@ -1,21 +1,21 @@
 ! --- [1단계] 허용할 도메인 리스트 ---
-@@||connman.vn.tesla.services^
-@@||pool.ntp.org^
-@@||www.microsoft.com^
-@@||www.apple.com^
-@@||google.com^
-@@||googleapis.com^
-@@||gstatic.com^
-@@||googleusercontent.com^
-@@||tmap.co.kr^
-@@||maps-kr-prd.go.tesla.services^
-@@||daws-kr.go.tesla.services^
-@@||cloudflare.com^
-@@||cloudflareinsights.com^
-@@||trycloudflare.com^
-@@||cloudflareaccess.com^
-@@||naver.com^
-@@||youtube.com^
+@@||connman.vn.tesla.services^$important
+@@||pool.ntp.org^$important
+@@||www.microsoft.com^$important
+@@||www.apple.com^$important
+@@||google.com^$important
+@@||googleapis.com^$important
+@@||gstatic.com^$important
+@@||googleusercontent.com^$important
+@@||tmap.co.kr^$important
+@@||maps-kr-prd.go.tesla.services^$important
+@@||daws-kr.go.tesla.services^$important
+@@||cloudflare.com^$important
+@@||cloudflareinsights.com^$important
+@@||trycloudflare.com^$important
+@@||cloudflareaccess.com^$important
+@@||naver.com^$important
+@@||youtube.com^$important
 
 [위 사이트 제외하고 모든 사이트 차단]
 |*^$dnsrewrite=NXDOMAIN
