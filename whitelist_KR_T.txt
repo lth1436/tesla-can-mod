@@ -17,6 +17,10 @@
 @@||cloudflareinsights.com^$important
 @@||trycloudflare.com^$important
 @@||cloudflareaccess.com^$important
+@@||naver.com^$important
+@@||youtube.com^$important
+
+
 
 ! --- [2] 로컬 호스트 및 관리 페이지 허용 (접속 끊김 방지) ---
 @@||127.0.0.1^$important
