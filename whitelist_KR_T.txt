@@ -14,4 +14,8 @@
 @@||cloudflareinsights.com^
 @@||trycloudflare.com^
 @@||cloudflareaccess.com^
+@@||naver.com^
+@@||youtube.com^
 
+[위 사이트 제외하고 모든 사이트 차단]
+|*^$dnsrewrite=NXDOMAIN
