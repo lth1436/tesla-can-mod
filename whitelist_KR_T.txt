@@ -1,0 +1,19 @@
+! --- [1단계] 허용할 도메인 리스트 ---
+@@||connman.vn.tesla.services^
+@@||pool.ntp.org^
+@@||www.microsoft.com^
+@@||www.apple.com^
+@@||google.com^
+@@||googleapis.com^
+@@||gstatic.com^
+@@||googleusercontent.com^
+@@||tmap.co.kr^
+@@||maps-kr-prd.go.tesla.services^
+@@||daws-kr.go.tesla.services^
+@@||cloudflare.com^
+@@||cloudflareinsights.com^
+@@||trycloudflare.com^
+@@||cloudflareaccess.com^
+
+! --- [2단계] 그 외 모든 도메인 전면 차단 ---
+|*^$dnsrewrite=NXDOMAIN
