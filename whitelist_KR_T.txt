@@ -15,5 +15,3 @@
 @@||trycloudflare.com^
 @@||cloudflareaccess.com^
 
-! --- [2단계] 그 외 모든 도메인 전면 차단 ---
-|*^$dnsrewrite=NXDOMAIN
