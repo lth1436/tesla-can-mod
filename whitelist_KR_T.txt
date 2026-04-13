@@ -18,9 +18,25 @@
 @@||trycloudflare.com^$important
 @@||cloudflareaccess.com^$important
 @@||naver.com^$important
-@@||youtube.com^$important
+@@||owner-api.teslamotors.com^
+@@||streaming.vn.tesla.com^
+@@||telemetry-prd.vn.tesla.services^
 
-
+# 넷플릭스(Netflix) 관련 도메인
+@@||netflix.com^
+@@||www.netflix.com^
+@@||nflxext.com^
+@@||nflximg.net^
+@@||nflxvideo.net^
+@@||nflxso.net^
+# 유튜브(YouTube) 관련 도메인
+@@||youtube.com^
+@@||www.youtube.com^
+@@||m.youtube.com^
+@@||ytimg.com^
+@@||googlevideo.com^
+@@||youtubei.googleapis.com^
+@@||s.ytimg.com^
 
 ! --- [2] 로컬 호스트 및 관리 페이지 허용 (접속 끊김 방지) ---
 @@||127.0.0.1^$important
