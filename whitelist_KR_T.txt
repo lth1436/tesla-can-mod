@@ -13,7 +13,6 @@
 @@||naver.com^$important
 @@||owner-api.teslamotors.com^
 @@||t1.cnrd.io^$important
-@@||streaming.vn.tesla.com^
 @@||path3.xtracloud.net^$important
 @@||path1.xtracloud.net^$important
 @@||path2.xtracloud.net^$important
@@ -29,7 +28,6 @@
 @@||sktelecom.com^$important
 @@||maps-kr-prd.go.tesla.services^$important
 @@||daws-kr.go.tesla.services^$important
-@@||telemetry-prd.vn.tesla.services^
 @@||i-sbc.skt-prd.connectrcs.com^$important
 
 # Tesla music streaming 관련 도메인
