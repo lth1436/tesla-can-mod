@@ -2,25 +2,50 @@
 @@||connman.vn.tesla.services^$important
 @@||pool.ntp.org^$important
 @@||www.microsoft.com^$important
-@@||www.apple.com^$important
 @@||google.com^$important
 @@||googleapis.com^$important
 @@||gstatic.com^$important
 @@||googleusercontent.com^$important
-@@||tmap.co.kr^$important
-@@||tmobi.io^$important
-@@||tmapms.com^$important
-@@||sktelecom.com^$important
-@@||maps-kr-prd.go.tesla.services^$important
-@@||daws-kr.go.tesla.services^$important
 @@||cloudflare.com^$important
 @@||cloudflareinsights.com^$important
 @@||trycloudflare.com^$important
 @@||cloudflareaccess.com^$important
 @@||naver.com^$important
 @@||owner-api.teslamotors.com^
+@@||t1.cnrd.io^$important
 @@||streaming.vn.tesla.com^
+@@||path3.xtracloud.net^$important
+@@||path1.xtracloud.net^$important
+@@||path2.xtracloud.net^$important
+@@||us-auth2.samsungosp.com^$important
+@@||dc.dqa.samsung.com^$important
+@@||mg.samsungdive.com^$important
+@@||api.rb.sbixby.com^$important
+
+# Tesla Navigation 관련 도메인
+@@||tmap.co.kr^$important
+@@||tmobi.io^$important
+@@||tmapms.com^$important
+@@||sktelecom.com^$important
+@@||maps-kr-prd.go.tesla.services^$important
+@@||daws-kr.go.tesla.services^$important
 @@||telemetry-prd.vn.tesla.services^
+@@||i-sbc.skt-prd.connectrcs.com^$important
+
+# Tesla music streaming 관련 도메인
+@@||www.apple.com^$important
+@@||api.music.apple.com^$important
+@@||play.itunes.apple.com^$important
+@@||universal-activity-service.itunes.apple.com^$important
+@@||api.spotify.com^$
+@@||pickasso.spotifycdn.com^$important
+@@||mosaic.scdn.co^$important
+@@||i.scdn.co^$important
+@@||dealer.spotify.com^$important
+@@||ap-gew1.spotify.com^$important
+@@||ap-gae2.spotify.com^$important
+@@||aod-ssl.itunes.apple.com^$important
+@@||is1-ssl.mzstatic.com^$important
 
 # 넷플릭스(Netflix) 관련 도메인
 @@||netflix.com^
@@ -29,6 +54,7 @@
 @@||nflximg.net^
 @@||nflxvideo.net^
 @@||nflxso.net^
+
 # 유튜브(YouTube) 관련 도메인
 @@||youtube.com^
 @@||www.youtube.com^
