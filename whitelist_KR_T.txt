@@ -1,5 +1,6 @@
 ! --- [1] 필수 서비스 및 테슬라 허용 목록 ($important 필수) ---
 @@||connman.vn.tesla.services^$important
+@@||fleet-api.prd.na.vn.cloud.tesla.com^$important
 @@||pool.ntp.org^$important
 @@||www.microsoft.com^$important
 @@||google.com^$important
